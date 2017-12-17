@@ -1,0 +1,28 @@
+for(int count = i-1;count>=0;count--){
+                    for(int m=0;m<M_count;m++){
+                        if(M[m].M_number == pagelist[count].pag &&M[m].is_get!=1){
+                            M[m].time = i-count;
+                            M[m].is_get = 1;
+                        }
+                    }
+                    int flag = 1;
+                    for(int m=0;m<M_count;m++){
+                        if(M[m].is_get == 0){
+                            flag = 0;
+                            break;
+                        }
+                    }
+
+                    if(flag ==1)
+                        break;
+
+                }
+
+                //find biggest time
+                int pos = search_latest();
+                M[pos].M_number = pagelist[i].pag;
+
+                for(int m = 0;m<M_count;m++){
+                    M[m].time = 0;
+                    M[m].is_get = 0;
+                }

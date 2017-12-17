@@ -1,0 +1,82 @@
+-----------------------------------------------------------
+              Welcome Using Micmic Page Changing 
+-----------------------------------------------------------
+In case of the messy code for different Operating System,this
+README document will be written in tow parts:
+1.English Version;2:Chinese Version
+
+Author:Warden John
+Unit:Beijing University of Chemicial Technology
+E-mail:309766930@qq.com
+School ID(Strdent ID) :2015014407
+Class :Computer Science And Engnieering 1505(CSE 1505)
+
+/*DESCRIPTIONS*/
+This Software is written in C++/C in QT platform.QT Platform is
+a OS-Crossing platform....
+
+MAYBE you can use it on Windows.After all , I didn't compile it
+under Windows for My Windows have no QT Platform.The Web of our
+school is too slow and I can wait for the QT Version which contian
+servel GB....So,I don't konw what will happen under Windows +_+
+
+When you start the program,there are tow button on the serface of 
+the UI .
+
+The "Start" Button can be clicked after you have chosen the Model
+number.
+
+If you don't konw which model you can choose,you can cilck the 
+button of "FAQ"..When you click it,it will jump out a windows 
+that have the introduction of the Model for you to choose.
+
+When you have chose one , you can cilck the "start" button,and you
+can see the state of each page and you can also see the state in the 
+"Output Console"
+
+After the funtion ended,you can see the page missing rate in the 
+TextBrowser on the buttom
+
+Please contact me when you find BUGS with E-mail.Thanks!
+Hope you can use it with fun!Thanks!
+
+
+-----------------------------------------------------------------------
+                   欢迎使用模拟页面置换算法程序
+-----------------------------------------------------------------------
+为了防止在不同系统下使用中文会导致乱码的现象，我在这里特别的把README文件
+用了两种语言编写：1.英语版本（以上）；2：中文版本
+
+作者：张永德
+单位：北京化工大学
+学号：2015014407
+电子邮箱：309766930@qq.com
+班级：计科1505
+
+/*简介*/
+这是一个在QT平台上用C++/C编写的软件，QT是跨平台的图形界面设计
+
+你也许可以把这个程序放到Windows下编译，毕竟，我自己没有在Windows下编译过
+只是因为我的Windows下没有QT的编译环境，而且，我们学校的网是在是太慢，好
+几个G的东西下不下来啊，我还没流量了呢，所以，恩，在Windows下会出现什么
+问题我还是不知道的呢！
+
++_+  ->   =_=
+
+当你启动程序的时候，你会发现在主界面上面有两个按钮
+在你选好了模式号码了以后，你就可以按"start"按钮开始程序啦
+当然啦，当你不知道模式的设定的时候，你就可以按“FAQ”的那个按钮啦。在你按下了
+那个按钮以后，就会弹出一个窗口，在窗口上我相信我已经把你想知道的信息都已经
+编写好啦
+
+当你已经选好了一个以后，你可以按下“start”按钮啦，在Model的框里面你可以看到
+你自己选择的程序模式是什么，同时，你还可以监视几个物理块的页面情况在状态栏
+里面，而且，你还可以在“Output Console”（输出控制台）哪里监视着运行的情况哦
+亲~~~
+
+最后呢，你就可以在最后一行那个地方看看缺页率啦~
+
+当然啦，我写的软件有BUG是肯定得咯，所以亲~~你在使用的时候如果遇到了BUG的话
+欢迎你通过我的邮箱和我联系哈~~
+
+祝你在使用额时候用的开心哦！
